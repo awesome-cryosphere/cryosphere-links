@@ -63,6 +63,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [speceis_flowline](https://github.com/douglas-brinkerhoff/speceis_flowline) - Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)
 - [Úa](https://github.com/GHilmarG/UaSource) - A large-scale ice-flow model
 - [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) - The source code repository for the Variational Glacier Simulator (VarGlaS) code
+- [Yelmo](https://github.com/palma-ice/yelmo) - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system
 
 
 
