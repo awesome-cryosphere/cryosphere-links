@@ -1,87 +1,93 @@
 
 
-# Awesome Cryosphere Software and Data [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Cryosphere Software, Data and Tools
 
 A prototype of a curated list of awesome data sources, models, tools and organizations related to the Cryosphere and its subspheres.
 
 
 ## Contents
-- [Cryosphere - across all subspheres](#cryosphereacrossallsubspheres)
-    - [Software](#caas-software)
-    - [Data](#caas-data)
-- [Frozen Ground/Permafrost](#frozengroundpermafrost)
-    - [Software](#fgp-software)
-    - [Data](#fgp-data)
-- [Glacier and Ice Sheets](#glaciersandicesheets)
-    - [Software](#gis-software)
-            - [Open Source Models](#gis-software-os) 
-            - [Closed/On-Demand Source Models](#gis-software-cs) 
-    - [Data](#gis-data)
-	    - [Global Data](#gis-globaldata) 
-	    - [National Data](#gis-localdata)
-	        - [Switzerland](#gis-swissdata)
-- [Sea Ice](#seaice)
-    - [Software](#si-software)
-    - [Data](#si-data)
+- [Cryosphere - across all subspheres](#cryosphere---across-all-subspheres)
+    - [Cryo Software](#cryo-software)
+    - [Cryo Data](#cryo-data)
+- [Frozen Ground/Permafrost](#frozen-groundpermafrost)
+    - [FGP Software](#fgp-software)
+    - [FGP Data](#fgp-data)
+- [Glaciers and Ice Sheets](#glaciers-and-ice-sheets)
+    - [GIS Software](#gis-software)
+         - [GIS Open Source Models](#gis-open-source-models) 
+             - Ice Flow and Mass Balance
+             -  (Surface) Mass Balance only
+             - Calving/Frontal Ablation
+             - Hydrology
+             - Sub-/Englacial Hydrology
+             - Miscellaneous
+         - [GIS Closed/On-Demand Source Models](#gis-closedon---demand-source-models) 
+             - Ice Flow and Mass Balance
+             - Sub-/Englacial Hydrology
+    - [GIS Data](#gis-data)
+	    - [GIS Global Data](#gis-global-data) 
+	    - [GIS National Data](#gis-local-data)
+	        - Switzerland
+    - [GIS Visualization Tools](#gis-visualization-tools)
+    - [GIS Educational Tools and Data](#gis-educational-tools-and-data)
+- [Sea Ice](#sea-ice)
+    - [SI Software](#si-software)
+    - [SI Data](#si-data)
 - [Snow](#snow)
-    - [Software](#s-software)
-    - [Data](#s-data)
+    - [SN Software](#sn-software)
+    - [SN Data](#sn-data)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Cryosphere - across all subspheres
-### Software
-### Data 
+### Cryo Software
+### Cryo Data 
 ## Frozen Ground/Permafrost
-### Software
-### Data
+### FGP Software
+### FGP Data
 
 ## Glaciers and Ice Sheets
-
-### Software
-
-####  Open Source Models 
-
+### GIS Software
+####  GIS Open Source Models
 ##### Ice Flow and Mass Balance
-- [ALPGM](https://github.com/JordiBolibar/ALPGM) - ALpine Parameterized Glacier Model
-- [CISM](https://github.com/CISM/cism) - Community Ice Sheet Model
+- [ALPGM](https://github.com/JordiBolibar/ALPGM) - ALpine Parameterized Glacier Model ([p](https://www.the-cryosphere-discuss.net/tc-2019-163/))
+- [CISM](https://github.com/CISM/cism) - Community Ice Sheet Model ([p](https://doi.org/10.1029/2008JF001015))
 - [DEISM ice-sheet-model](https://github.com/cpk26/ice-sheet-model) - DEpth integrated Ice Sheet Model (DEISM)
 - [Elmer/Ice](https://github.com/elmercsc/elmerfem) - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 - [flowline-glacier-model](https://github.com/aaschwanden/flowline-glacier-model) - Flowline glacier model by Andy Aschwanden
 - [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
-- [GRANTISM](http://homepages.ulb.ac.be/~fpattyn/grantism/)  - GReenland & ANTarctic Ice Sheet Model + Svalbard extension
+- [GRANTISM](http://homepages.ulb.ac.be/~fpattyn/grantism/)  - GReenland & ANTarctic Ice Sheet Model + Svalbard extension ([p](https://doi.org/10.1016/j.cageo.2005.06.020))
 - [icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets
 - [icetools](https://github.com/alexjarosch/icetools) - icetools provides a development environment for numerical ice flow models/simulations
 - [ISSM](https://issm.jpl.nasa.gov/)  - Ice Sheet System Model
 - [js-ism](https://github.com/mewo2/js-ism) - A simple Javascript ice sheet model
 - [MPAS-Albany Land Ice (MALI)](https://github.com/MPAS-Dev/MPAS-Release/releases) - a variable-resolution ice sheet model for earth system modeling using voronoi grids
-- [OGGM](https://oggm.org/) - Open Global Glacier Model: a modular open source model for glacier dynamics
-- [PISM](http://www.pism-docs.org/wiki/doku.php) - Parallel Ice Sheet Model
+- [OGGM](https://oggm.org/) - Open Global Glacier Model: a modular open source model for glacier dynamics ([p](https://doi.org/10.5194/gmd-12-909-2019))
+- [PISM](http://www.pism-docs.org/wiki/doku.php) - Parallel Ice Sheet Model ([p](https://doi.org/10.5194/tc-5-715-2011))
 - [PyGEM](https://github.com/drounce/PyGEM) - Python Glacier Evolution Model (PyGEM)
 - [sia-fluxlim](https://github.com/alexjarosch/sia-fluxlim) - Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences
 - [SICOPOLIS](http://www.sicopolis.net/)  - SImulation COde for POLythermal Ice Sheets
 - [speceis_flowline](https://github.com/douglas-brinkerhoff/speceis_flowline) - Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)
 - [Úa](https://github.com/GHilmarG/UaSource) - A large-scale ice-flow model
-- [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) - The source code repository for the Variational Glacier Simulator (VarGlaS) code
-- [Yelmo](https://github.com/palma-ice/yelmo) - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system
-
+- [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) - The source code repository for the Variational Glacier Simulator (VarGlaS) code ([p](https://doi.org/10.5194/tc-7-1161-2013))
+- [Yelmo](https://github.com/palma-ice/yelmo) - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system ([p](https://doi.org/10.5194/gmd-2019-273))
 
 
 ##### (Surface) Mass Balance only
-- [pypdd](https://github.com/juseg/pypdd) - A positive degree day model for glacier surface mass balance
+- [pypdd](https://github.com/juseg/pypdd) - A positive degree day model for glacier surface mass balance ([p](http://doi.org/10.3189/2013JoG13J081))
 
 ##### Calving/Frontal Ablation
 - [cryo_calving_2019](https://github.com/bearecinos/cryo_calving_2019) - Experiments with a minimal Frontal ablation model added to OGGM
-- [HiDEM](https://github.com/joeatodd/HiDEM) - Helsinki Discrete Element Model, a particle model for simulating elastic behaviour, fracture and calving at marine terminating glaciers
+- [HiDEM](https://github.com/joeatodd/HiDEM) - Helsinki Discrete Element Model, a particle model for simulating elastic behaviour, fracture and calving at marine terminating glaciers ([p](https://doi.org/10.5194/tc-7-1591-2013))
 
 ##### Hydrology
-- [CCHF](https://github.com/thomasmosier/CCHF) - Cryosphere hydrology modeling package written in Matlab
-- [DEBAM/DETIM](https://github.com/regine/meltmodel)  - Distributed Energy Balance Model (DEBAM) and Distributed Enhanced Temperature Index Model (DETIM): Two Distributed Glacier Surface Mass-Balance and Discharge Models
+- [CCHF](https://github.com/thomasmosier/CCHF) - Cryosphere hydrology modeling package written in Matlab ([p](https://doi.org/10.5194/tc-10-2147-2016))
+- [DEBAM/DETIM](https://github.com/regine/meltmodel)  - Distributed Energy Balance Model (DEBAM) and Distributed Enhanced Temperature Index Model (DETIM): Two Distributed Glacier Surface Mass-Balance and Discharge Models ([p](https://doi.org/10.3189/S0022143000003087), [p](https://doi.org/10.3189/172756505781829566))
 
 ##### Sub-/Englacial Hydrology
 - [1Dhydro](https://bitbucket.org/maurow/1dhydro/src/master/) - Example subglacial hydrology model for teaching. Subglacial processes workshop at Centre for Ice and Climate, The Niels Bohr Institute, University of Copenhagen 7-11 th April 2014
 - [RchannelODE.jl](https://bitbucket.org/maurow/rchannelode.jl/src/master/) - Solves the 1D steady state R-channel equations
-- [SHAKTI](https://issm.jpl.nasa.gov/download/) - Subglacial hydrology and kinetic transient interactions
+- [SHAKTI]() - Subglacial hydrology and kinetic transient interactions ([p](https://doi.org/10.5194/gmd-11-2955-2018))
 
 ##### Miscellaneous
 - [bod-marine](https://github.com/bueler/bod-marine) - exact solution to marine ice sheet 1D problem, coming from Bodvardsson (1955)
@@ -96,13 +102,13 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 
 
-####  Closed/On-Demand Source Models
+####  GIS Closed/On-Demand Source Models
 
 ##### Ice Flow and Mass Balance
 - [GagliardiniWerder2018](https://doi.org/10.1017/jog.2018.59) - Influence of an increasing surface melt over decadal timescales on land terminating outlet glaciers (paper)
-- [GloGEM](https://doi.org/10.3389/feart.2015.00054) - A model for global glacier change and sea-level rise
-- [GloGEMflow](https://doi.org/10.5194/tc-13-1125-2019) - Extended version of the Global Glacier Evolution Model (GloGEM), in which both surface mass balance and ice flow are explicitly accounted for
-- [GERM](http://dx.doi.org/10.1002/hyp.8276) - Glacier Evolution and Runoff Model
+- [GloGEM](https://doi.org/10.3389/feart.2015.00054) - A model for global glacier change and sea-level rise ([p](https://doi.org/10.3389/feart.2015.00054))
+- [GloGEMflow](https://doi.org/10.5194/tc-13-1125-2019) - Extended version of the Global Glacier Evolution Model (GloGEM), in which both surface mass balance and ice flow are explicitly accounted for ([p](https://doi.org/10.5194/tc-13-1125-2019))
+- [GERM](http://dx.doi.org/10.1002/hyp.8276) - Glacier Evolution and Runoff Model ([p](https://doi.org/10.1002/hyp.7055))
 
 
 ##### Sub-/Englacial Hydrology
@@ -118,7 +124,7 @@ hydrology and glacier dynamics (paper)
 - [Werderetal2013](https://doi.org/10.1002/jgrf.20146) - Modeling channelized and distributed subglacial drainage in two dimensions (paper)
 
 
-#### Visualization Tools
+#### GIS Visualization Tools
 - [GLIMS Glacier Viewer](http://www.glims.org/maps/glims) - Global Land Ice Measurememts from Space (GLIMS) / Global Terrestrial Network for Glaciers (GTN-G) Glacier Viewer covering a range of inventories
 - [OGGM Dash](https://dash.klima.uni-bremen.de/) - Three worldwide glacier visualization Apps developed at a Hackathon
 - [WGMS Smartphone App](https://wgms.ch/glacierapp/) - Browsing glaciers worldwide and in your proximity
@@ -127,37 +133,19 @@ hydrology and glacier dynamics (paper)
 - [iceplotlib](https://github.com/juseg/iceplotlib) - Plotting tools for PISM using matplotlib and netcdf4-python
 
 
-### Data
-#### Global Data
+### GIS Data
+#### GIS Global Data
 - [FoG](https://wgms.ch/data_databaseversions/) - Fluctuations of Glaciers with point, elevation band and specific mass balance measurements 
 - [Glacier Length Fluctuations](https://folk.uio.no/paulwl/length.php)  - Glacier Length Database by Paul Leclercq
 - [GlaThiDa](https://www.gtn-g.ch/data_catalogue_glathida/)  - Glacier Thickness Dataset with point, elevation band and specific ice thickness measurements
 - [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory
 - [WGI](https://nsidc.org/data/g01130)  - World Glacier Inventory
 
-#### National Data
+#### GIS National Data
 ##### Switzerland
 - [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal
 
-## Sea Ice
-### Software
-- [CICE](https://github.com/CICE-Consortium/CICE) - CICE sea-ice model
-- [Icepack](https://github.com/CICE-Consortium/Icepack) - sea-ice column physics
-- [SIS2](https://github.com/NOAA-GFDL/SIS2) - NOAA-GFDL's Sea Ice Simulator version 2
-### Data 
-
-## Snow
-### Software
-- [SNOWPACK](https://models.slf.ch/p/snowpack/)  - multi-purpose snow and land-surface model
-- [cosipy](https://github.com/cryotools/cosipy) - Coupled snowpack and ice surface energy and mass balance model in Python
-- [FSM2](https://github.com/RichardEssery/FSM2) - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies
-- [snowtools](https://github.com/dshean/snowtools) - D. Shean's utilities for working with snow data
-
-### Data
-#### Global Data
- - [CommunitySnowObs](http://communitysnowobs.org/) - Community Snow Observations
-
-## Educational Tools and Data
+### GIS Educational Tools and Data
 - [OGGM-edu](http://edu.oggm.org/en/latest/) - Educational material about glaciers, powered by OGGM and MyBinder
 - [glacier-graphics](https://github.com/OGGM/glacier-graphics) - A collection of glacier graphics that can be used for education and outreach
 - [Ed Bueler's Karthaus material](https://github.com/bueler/karthaus) - Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers
@@ -170,6 +158,25 @@ hydrology and glacier dynamics (paper)
 - [Physics of Glacier lecture at ETH](http://people.ee.ethz.ch/~luethim/teaching.html) - All the course material for the "Physics of Glaciers" class.
 - [Subglacial processes workshop material](https://maurow.bitbucket.io/teaching/copenhagen2014.html) - Mauro Werder's material from the subglacial processes workshop Copenhagen
 - [Swisseduc Glaciers online](https://www.swisseduc.ch/glaciers/) - A collection of photos and processes of different glaciers
+
+
+## Sea Ice
+### SI Software
+- [CICE](https://github.com/CICE-Consortium/CICE) - CICE sea-ice model
+- [Icepack](https://github.com/CICE-Consortium/Icepack) - sea-ice column physics
+- [SIS2](https://github.com/NOAA-GFDL/SIS2) - NOAA-GFDL's Sea Ice Simulator version 2
+### SI Data 
+
+## Snow
+### SN Software
+- [SNOWPACK](https://models.slf.ch/p/snowpack/)  - multi-purpose snow and land-surface model ([p](https://doi.org/10.1016/S0165-232x(02)00073-3))
+- [cosipy](https://github.com/cryotools/cosipy) - Coupled snowpack and ice surface energy and mass balance model in Python
+- [FSM2](https://github.com/RichardEssery/FSM2) - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies ([p](http://www.geosci-model-dev.net/8/3867/2015/))
+- [snowtools](https://github.com/dshean/snowtools) - D. Shean's utilities for working with snow data
+
+### SN Data
+#### SN Global Data
+ - [CommunitySnowObs](http://communitysnowobs.org/) - Community Snow Observations
 
 
 # Contributing
