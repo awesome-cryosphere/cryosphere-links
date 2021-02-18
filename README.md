@@ -56,11 +56,9 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [Elmer/Ice](https://github.com/elmercsc/elmerfem) - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 - [flowline-glacier-model](https://github.com/aaschwanden/flowline-glacier-model) - Flowline glacier model by Andy Aschwanden
 - [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
-- [GRANTISM](http://homepages.ulb.ac.be/~fpattyn/grantism/)  - GReenland & ANTarctic Ice Sheet Model + Svalbard extension ([p](https://doi.org/10.1016/j.cageo.2005.06.020))
 - [icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets
 - [icetools](https://github.com/alexjarosch/icetools) - icetools provides a development environment for numerical ice flow models/simulations
 - [ISSM](https://issm.jpl.nasa.gov/)  - Ice Sheet System Model
-- [js-ism](https://github.com/mewo2/js-ism) - A simple Javascript ice sheet model
 - [MPAS-Albany Land Ice (MALI)](https://github.com/MPAS-Dev/MPAS-Release/releases) - a variable-resolution ice sheet model for earth system modeling using voronoi grids
 - [OGGM](https://oggm.org/) - Open Global Glacier Model: a modular open source model for glacier dynamics ([p](https://doi.org/10.5194/gmd-12-909-2019))
 - [PISM](http://www.pism-docs.org/wiki/doku.php) - Parallel Ice Sheet Model ([p](https://doi.org/10.5194/tc-5-715-2011))
@@ -153,9 +151,11 @@ hydrology and glacier dynamics (paper)
 - [UW_Geodetic_Mass_Budget_Scripts](https://github.com/ShashankBice/UW_Geodetic_Mass_Budget_Scripts) - no description provided
 - [Andy Aschwanden's McCarthy material](https://github.com/aaschwanden/mccarthy-summerschool) - International Summer School in Glaciology, McCarthy, AK. Lecture notes and excercises by Andy Aschwanden
 - [Glaciers Dynamics Lecture](https://github.com/aaschwanden/glaciers617) - Glacier Dynamics lecture by Andy Aschwanden
+- [GRANTSISM](http://homepages.ulb.ac.be/~fpattyn/grantism/)  - GReenland & ANTarctic Ice Sheet Model + Svalbard extension, based on Excel with suggested exercises  ([p](https://doi.org/10.1016/j.cageo.2005.06.020) [p](https://doi.org/10.1080/10899995.2018.1412177))
+- [js-ism](https://github.com/mewo2/js-ism) - Reimplementation of GRANTISM in Javascript
 - [icepack-examples](https://github.com/danshapero/icepack-examples) - Example code for the glacier modelling library icepack
 - [Lindsey Nicholson's teaching](https://github.com/linznicholson/teaching) - Materials Lindsey developed for teaching (mainly) about glaciers
-- [Physics of Glacier lecture at ETH](http://people.ee.ethz.ch/~luethim/teaching.html) - All the course material for the "Physics of Glaciers" class.
+- [Physics of Glacier lecture at ETH](http://people.ee.ethz.ch/~luethim/teaching.html) - All the course material for the "Physics of Glaciers" class
 - [Subglacial processes workshop material](https://maurow.bitbucket.io/teaching/copenhagen2014.html) - Mauro Werder's material from the subglacial processes workshop Copenhagen
 - [Swisseduc Glaciers online](https://www.swisseduc.ch/glaciers/) - A collection of photos and processes of different glaciers
 
