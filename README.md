@@ -124,7 +124,7 @@ hydrology and glacier dynamics (paper)
 
 #### GIS Visualization Tools
 - [GLIMS Glacier Viewer](http://www.glims.org/maps/glims) - Global Land Ice Measurememts from Space (GLIMS) / Global Terrestrial Network for Glaciers (GTN-G) Glacier Viewer covering a range of inventories
-- [OGGM Dash](https://dash.klima.uni-bremen.de/) - Three worldwide glacier visualization Apps developed at a Hackathon
+- [OGGM-edu](http://edu.oggm.org) - Interactive glacier apps for educational purposes
 - [WGMS Smartphone App](https://wgms.ch/glacierapp/) - Browsing glaciers worldwide and in your proximity
 - [WGMS FoG Browser](https://wgms.ch/fogbrowser/) - Fluctuations of Glaciers Dataset Browser
 - [GLAMOS](https://glamos.ch) - Browsing Swiss glaciers on an interactive map
@@ -144,7 +144,7 @@ hydrology and glacier dynamics (paper)
 - [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal
 
 ### GIS Educational Tools and Data
-- [OGGM-edu](http://edu.oggm.org/en/latest/) - Educational material about glaciers, powered by OGGM and MyBinder
+- [OGGM-edu](http://edu.oggm.org) - Educational material about glaciers, powered by OGGM and MyBinder
 - [glacier-graphics](https://github.com/OGGM/glacier-graphics) - A collection of glacier graphics that can be used for education and outreach
 - [Ed Bueler's Karthaus material](https://github.com/bueler/karthaus) - Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers
 - [Ed Bueler's McCarthy material](https://github.com/bueler/mccarthy) - Ed Bueler's slides, notes, and codes on numerical glacier and ice sheet modeling, for the International Summer School in Glaciology, McCarthy, AK
