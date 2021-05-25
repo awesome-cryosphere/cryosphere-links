@@ -26,6 +26,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
          - [GIS Closed/On-Demand Source Models](#gis-closedon---demand-source-models) 
              - Ice Flow and Mass Balance
              - Sub-/Englacial Hydrology
+         - [GIS Remote Sensing Software](#gis-remote-sensing-software)
     - [GIS Data](#gis-data)
 	    - [GIS Global Data](#gis-global-data) 
 	    - [GIS National Data](#gis-local-data)
@@ -132,6 +133,8 @@ hydrology and glacier dynamics (paper)
 - [GLAMOS](https://glamos.ch) - Browsing Swiss glaciers on an interactive map
 - [iceplotlib](https://github.com/juseg/iceplotlib) - Plotting tools for PISM using matplotlib and netcdf4-python
 
+#### GIS Remote Sensing Software
+- [glaciersat](https://github.com/jlandmann/glaciersat) -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
 
 ### GIS Data
 #### GIS Global Data
