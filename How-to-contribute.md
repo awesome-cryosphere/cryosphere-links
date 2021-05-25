@@ -14,4 +14,4 @@ to produce a nice looking format. The most direct way to contribute is to make a
 
 Your request will be managed then.
 
-However, you can also always send your addition via [E-Mail](landmann@vaw.baug.ethz.ch). Please make sure to include as much information as possible listed under "2.".
+However, you can also always send your addition via [E-Mail](mailto://landmann@vaw.baug.ethz.ch). Please make sure to include as much information as possible listed under "2.".
