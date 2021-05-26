@@ -147,7 +147,9 @@ hydrology and glacier dynamics (paper)
 
 #### GIS National Data
 ##### Switzerland
-- [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal
+- [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal]
+##### Austria
+- [Austrian Glacier Inventory](https://doi.org/10.1594/PANGAEA.844988) - Multi-temporal inventory of Austrian glaciers as a shapefile
 
 ### GIS Educational Tools and Data
 - [OGGM-edu](http://edu.oggm.org) - Educational material about glaciers, powered by OGGM and MyBinder
