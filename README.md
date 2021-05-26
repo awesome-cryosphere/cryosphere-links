@@ -135,6 +135,7 @@ hydrology and glacier dynamics (paper)
 
 #### GIS Remote Sensing Software
 - [glaciersat](https://github.com/jlandmann/glaciersat) -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
+- [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 laser altimetry data
 
 ### GIS Data
 #### GIS Global Data
