@@ -84,6 +84,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ##### Calving/Frontal Ablation
 - [cryo_calving_2019](https://github.com/bearecinos/cryo_calving_2019) - Experiments with a minimal Frontal ablation model added to OGGM
 - [HiDEM](https://github.com/joeatodd/HiDEM) - Helsinki Discrete Element Model, a particle model for simulating elastic behaviour, fracture and calving at marine terminating glaciers ([p](https://doi.org/10.5194/tc-7-1591-2013))
+- [SERMeQ](https://github.com/ehultee/sermeq) - Tool to estimate advance, retreat, and sea level contribution of calving glaciers forced by upstream surface mass balance, based on viscoplastic physics ([p](https://doi.org/10.1029/2020GL090213))
 
 ##### Hydrology
 - [CCHF](https://github.com/thomasmosier/CCHF) - Cryosphere hydrology modeling package written in Matlab ([p](https://doi.org/10.5194/tc-10-2147-2016))
