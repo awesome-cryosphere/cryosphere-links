@@ -48,6 +48,8 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ## Frozen Ground/Permafrost
 ### FGP Software
 ### FGP Data
+- [PERMOS](http://permos.ch/) - Swiss Permafrost Monitoring Network (PERMOS)
+- [PermaSense Matterhorn Data](https://doi.pangaea.de/10.1594/PANGAEA.916193) - Matterhorn Permafrost Observatory data ([p](https://doi.org/10.5194/essd-11-1203-2019))
 
 ## Glaciers and Ice Sheets
 ### GIS Software
