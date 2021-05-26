@@ -45,6 +45,8 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ## Cryosphere - across all subspheres
 ### Cryo Software
 ### Cryo Data 
+- [NSIDC](https://nsidc.org/) - The (US) National Snow and Ice Data Center
+- [NSIDC Data Tutorials](https://github.com/nsidc/NSIDC-Data-Tutorials) - Jupyter notebook guides to access, subset, transform, and visualize data products from NSIDC
 ## Frozen Ground/Permafrost
 ### FGP Software
 ### FGP Data
