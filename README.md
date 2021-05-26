@@ -137,6 +137,7 @@ hydrology and glacier dynamics (paper)
 - [iceplotlib](https://github.com/juseg/iceplotlib) - Plotting tools for PISM using matplotlib and netcdf4-python
 
 #### GIS Remote Sensing Software
+- [DIC_FFT](https://github.com/bickelmps/DIC_FFT_ETHZ) -  Detect and quantify surface displacements in multi-temporal images ([p](https://www.mdpi.com/2072-4292/10/6/865))
 - [glaciersat](https://github.com/jlandmann/glaciersat) -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
 - [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 laser altimetry data
 
