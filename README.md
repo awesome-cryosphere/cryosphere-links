@@ -60,6 +60,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [flowline-glacier-model](https://github.com/aaschwanden/flowline-glacier-model) - Flowline glacier model by Andy Aschwanden
 - [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
 - [icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets
+- [ICESHEET](https://github.com/evangowan/icesheet) - Creates ice sheet reconstructions using a perfectly plastic approximation, using ice margins and basal shear stress as inputs
 - [icetools](https://github.com/alexjarosch/icetools) - icetools provides a development environment for numerical ice flow models/simulations
 - [ISSM](https://issm.jpl.nasa.gov/)  - Ice Sheet System Model
 - [MPAS-Albany Land Ice (MALI)](https://github.com/MPAS-Dev/MPAS-Release/releases) - a variable-resolution ice sheet model for earth system modeling using voronoi grids
@@ -99,6 +100,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [icepack-py](https://github.com/danshapero/icepack-py) - Python bindings and utility scripts for icepack
 - [mb_crossval](https://github.com/OGGM/mb_crossval) - Code for the continuous mass-balance cross-validation tool
 - [Rounce2014_debristhickness](https://github.com/drounce/Rounce2014_debristhickness) - Codes associated with deriving the debris thickness of debris-covered glaciers from Landsat thermal imagery
+- [SELEN](https://github.com/geodynamics/selen) - Calculates glacial isostatic adjustment and the sea level equation
 - [sia-fve](https://github.com/bueler/sia-fve) - implicit finite volume element (FVE) method for the shallow ice approximation (SIA) free-boundary problem
 
 
