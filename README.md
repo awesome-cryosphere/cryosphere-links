@@ -57,7 +57,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ### GIS Software
 ####  GIS Open Source Models
 ##### Ice Flow and Mass Balance
-- [ALPGM](https://github.com/JordiBolibar/ALPGM) - ALpine Parameterized Glacier Model ([p](https://www.the-cryosphere-discuss.net/tc-2019-163/))
+- [ALPGM](https://github.com/JordiBolibar/ALPGM) - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
 - [CISM](https://github.com/CISM/cism) - Community Ice Sheet Model ([p](https://doi.org/10.1029/2008JF001015))
 - [DEISM ice-sheet-model](https://github.com/cpk26/ice-sheet-model) - DEpth integrated Ice Sheet Model (DEISM)
 - [Elmer/Ice](https://github.com/elmercsc/elmerfem) - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
