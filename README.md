@@ -101,10 +101,8 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [bod-marine](https://github.com/bueler/bod-marine) - exact solution to marine ice sheet 1D problem, coming from Bodvardsson (1955)
 - [debadvect](https://github.com/awirbel/debadvect) - FEM model for englacial debris transport
 - [Glacier initialization](https://github.com/OGGM/initialization) - Method to reconstruct estimated glacier states up to 1850
-- [Glacier reconstruction](https://github.com/juliaeis/reconstruction) - Reconstruction of estimated glacier states
 - [GlacialLakeHazards](https://github.com/drounce/GlacialLakeHazards) - Matlab codes from PhD work on glacial lake outburst flood hazards in the Nepal Himalaya
 - [icepack-py](https://github.com/danshapero/icepack-py) - Python bindings and utility scripts for icepack
-- [mb_crossval](https://github.com/OGGM/mb_crossval) - Code for the continuous mass-balance cross-validation tool
 - [Rounce2014_debristhickness](https://github.com/drounce/Rounce2014_debristhickness) - Codes associated with deriving the debris thickness of debris-covered glaciers from Landsat thermal imagery
 - [SELEN](https://github.com/geodynamics/selen) - Calculates glacial isostatic adjustment and the sea level equation
 - [sia-fve](https://github.com/bueler/sia-fve) - implicit finite volume element (FVE) method for the shallow ice approximation (SIA) free-boundary problem
@@ -151,7 +149,7 @@ hydrology and glacier dynamics (paper)
 - [FoG](https://wgms.ch/data_databaseversions/) - Fluctuations of Glaciers with point, elevation band and specific mass balance measurements 
 - [Glacier Length Fluctuations](https://folk.uio.no/paulwl/length.php)  - Glacier Length Database by Paul Leclercq
 - [GlaThiDa](https://www.gtn-g.ch/data_catalogue_glathida/)  - Glacier Thickness Dataset with point, elevation band and specific ice thickness measurements
-- [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory
+- [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory, a global inventory of glacier outlines ([report an issue](https://github.com/GLIMS-RGI/rgi_issue_tracker))
 - [WGI](https://nsidc.org/data/g01130)  - World Glacier Inventory
 
 #### GIS National Data
