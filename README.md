@@ -192,6 +192,7 @@ hydrology and glacier dynamics (paper)
 - [FSM2](https://github.com/RichardEssery/FSM2) - Flexible Snow Model: a multi-physics energy balance model of accumulation and melt of snow on the ground and in forest canopies ([p](http://www.geosci-model-dev.net/8/3867/2015/))
 - [snowtools](https://github.com/dshean/snowtools) - D. Shean's utilities for working with snow data
 - [let-it-snow](https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow/) - Operational snow cover detection from optical multispectral level 2A products ([p](https://www.earth-syst-sci-data.net/11/493/2019/essd-11-493-2019.html))
+- [openAMUNDSEN](https://github.com/openamundsen/openamundsen) - Modular snow and hydroclimatological modeling framework
 
 ### SN Data
 #### SN Global Data
