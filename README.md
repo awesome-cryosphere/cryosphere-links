@@ -116,6 +116,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [GloGEM](https://doi.org/10.3389/feart.2015.00054) - A model for global glacier change and sea-level rise ([p](https://doi.org/10.3389/feart.2015.00054))
 - [GloGEMflow](https://doi.org/10.5194/tc-13-1125-2019) - Extended version of the Global Glacier Evolution Model (GloGEM), in which both surface mass balance and ice flow are explicitly accounted for ([p](https://doi.org/10.5194/tc-13-1125-2019))
 - [GERM](http://dx.doi.org/10.1002/hyp.8276) - Glacier Evolution and Runoff Model ([p](https://doi.org/10.1002/hyp.7055))
+- [PollardDeConto2012](https://doi.org/10.5194/gmd-5-1273-2012) - 3D hybrid ice sheet-shelf model for long-term continental-scale applications ([p](https://doi.org/10.5194/gmd-5-1273-2012))
 
 
 ##### Sub-/Englacial Hydrology
