@@ -112,6 +112,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ####  GIS Closed/On-Demand Source Models
 
 ##### Ice Flow and Mass Balance
+- [f.ETISh](https://doi.org/10.5194/tc-11-1851-2017) - Fast Elementary Thermomechanical Ice Sheet Model ([p](https://doi.org/10.5194/tc-11-1851-2017))
 - [GagliardiniWerder2018](https://doi.org/10.1017/jog.2018.59) - Influence of an increasing surface melt over decadal timescales on land terminating outlet glaciers (paper)
 - [GloGEM](https://doi.org/10.3389/feart.2015.00054) - A model for global glacier change and sea-level rise ([p](https://doi.org/10.3389/feart.2015.00054))
 - [GloGEMflow](https://doi.org/10.5194/tc-13-1125-2019) - Extended version of the Global Glacier Evolution Model (GloGEM), in which both surface mass balance and ice flow are explicitly accounted for ([p](https://doi.org/10.5194/tc-13-1125-2019))
