@@ -75,6 +75,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [SICOPOLIS](http://www.sicopolis.net/)  - SImulation COde for POLythermal Ice Sheets
 - [speceis_flowline](https://github.com/douglas-brinkerhoff/speceis_flowline) - Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)
 - [Úa](https://github.com/GHilmarG/UaSource) - A large-scale ice-flow model
+- [UFEMISM](https://github.com/IMAU-paleo/UFEMISM) - The Utrecht FinitE voluMe Ice-Sheet Model ([p](https://doi.org/10.5194/gmd-14-2443-2021))
 - [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) - The source code repository for the Variational Glacier Simulator (VarGlaS) code ([p](https://doi.org/10.5194/tc-7-1161-2013))
 - [Yelmo](https://github.com/palma-ice/yelmo) - a 3D ice-sheet-shelf model solving for the coupled dynamics and thermodynamics of the ice sheet system ([p](https://doi.org/10.5194/gmd-2019-273))
 
