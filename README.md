@@ -186,6 +186,7 @@ hydrology and glacier dynamics (paper)
 - [CICE](https://github.com/CICE-Consortium/CICE) - CICE sea-ice model
 - [Icepack](https://github.com/CICE-Consortium/Icepack) - sea-ice column physics
 - [SIS2](https://github.com/NOAA-GFDL/SIS2) - NOAA-GFDL's Sea Ice Simulator version 2
+- [SI3](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/guide.html) - sea ice model of the NEMO consortium
 ### SI Data 
 
 ## Snow
