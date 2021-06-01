@@ -199,6 +199,7 @@ hydrology and glacier dynamics (paper)
 - [let-it-snow](https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow/) - Operational snow cover detection from optical multispectral level 2A products ([p](https://www.earth-syst-sci-data.net/11/493/2019/essd-11-493-2019.html))
 - [openAMUNDSEN](https://github.com/openamundsen/openamundsen) - Modular snow and hydroclimatological modeling framework
 - [TARTES](https://github.com/ghislainp/tartes) - Two-stream radiative transfer in Snow model, also available as a [webapp](http://snowtartes.pythonanywhere.com/)
+- [snowoptics](https://github.com/ghislainp/snowoptics) - Functions to compute spectral albedo and extinction of snow on flat and tilted terrains, also available as a [webapp](https://snowslope.pythonanywhere.com/)
 
 ### SN Data
 #### SN Global Data
