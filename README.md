@@ -200,6 +200,7 @@ hydrology and glacier dynamics (paper)
 - [openAMUNDSEN](https://github.com/openamundsen/openamundsen) - Modular snow and hydroclimatological modeling framework
 - [TARTES](https://github.com/ghislainp/tartes) - Two-stream radiative transfer in Snow model, also available as a [webapp](http://snowtartes.pythonanywhere.com/)
 - [snowoptics](https://github.com/ghislainp/snowoptics) - Functions to compute spectral albedo and extinction of snow on flat and tilted terrains, also available as a [webapp](https://snowslope.pythonanywhere.com/)
+- [SMRT](https://github.com/smrt-model/smrt) - Snow Microwave Radiative Transfer model to calculate scattering of microwave radiation in snow ([p](https://doi.org/10.5194/gmd-11-2763-2018))
 
 ### SN Data
 #### SN Global Data
