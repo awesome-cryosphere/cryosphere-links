@@ -59,6 +59,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ##### Ice Flow and Mass Balance
 - [ALPGM](https://github.com/JordiBolibar/ALPGM) - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
 - [CISM](https://github.com/CISM/cism) - Community Ice Sheet Model ([p](https://doi.org/10.1029/2008JF001015))
+- [CFM](https://github.com/UWGlaciology/CommunityFirnModel) - Community Firn Model ([p](https://gmd.copernicus.org/articles/13/4355/2020/gmd-13-4355-2020.html))
 - [DEISM ice-sheet-model](https://github.com/cpk26/ice-sheet-model) - DEpth integrated Ice Sheet Model (DEISM)
 - [Elmer/Ice](https://github.com/elmercsc/elmerfem) - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 - [Fenics Ice](https://github.com/EdiGlacUQ/fenics_ice) - Ice Sheet model with Bayesian Uncertainty Quantification ([p](https://doi.org/10.5194/gmd-2021-90)).
