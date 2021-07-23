@@ -85,6 +85,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ##### (Surface) Mass Balance only
 - [pypdd](https://github.com/juseg/pypdd) - A positive degree day model for glacier surface mass balance ([p](http://doi.org/10.3189/2013JoG13J081))
 - [COSIPY](https://github.com/cryotools/cosipy) -  A flexible and user-friendly framework for modeling distributed snow and glacier mass changes ([p](https://doi.org/10.5194/gmd-13-5645-2020))
+- [MAR](https://mar.cnrs.fr/) -  A regional climate model for modelling surface mass balance ([p](http://journals.ametsoc.org/doi/abs/10.1175/1520-0493(1994)122%3C0671:DOATDM%3E2.0.CO;2))
 
 ##### Calving/Frontal Ablation
 - [cryo_calving_2019](https://github.com/bearecinos/cryo_calving_2019) - Experiments with a minimal Frontal ablation model added to OGGM
