@@ -14,25 +14,25 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [Frozen Ground/Permafrost](#frozen-groundpermafrost)
     - [FGP Software](#fgp-software)
     - [FGP Data](#fgp-data)
-- [Glaciers and Ice Sheets](#glaciers-and-ice-sheets)
-    - [GIS Software](#gis-software)
-         - [GIS Open Source Models](#gis-open-source-models) 
+- [Ice Sheets and Glaciers](#ice-sheets-and-glaciers)
+    - [ISG Software](#isg-software)
+         - [ISG Open Source Models](#isg-open-source-models) 
              - Ice Flow and Mass Balance
              -  (Surface) Mass Balance only
              - Calving/Frontal Ablation
              - Hydrology
              - Sub-/Englacial Hydrology
              - Miscellaneous
-         - [GIS Closed/On-Demand Source Models](#gis-closedon---demand-source-models) 
+         - [ISG Closed/On-Demand Source Models](#isg-closedon---demand-source-models) 
              - Ice Flow and Mass Balance
              - Sub-/Englacial Hydrology
-         - [GIS Remote Sensing Software](#gis-remote-sensing-software)
-    - [GIS Data](#gis-data)
-	    - [GIS Global Data](#gis-global-data) 
-	    - [GIS National Data](#gis-local-data)
+         - [ISG Remote Sensing Software](#isg-remote-sensing-software)
+    - [ISG Data](#isg-data)
+	    - [ISG Global Data](#isg-global-data) 
+	    - [ISG National Data](#isg-local-data)
 	        - Switzerland
-    - [GIS Visualization Tools](#gis-visualization-tools)
-    - [GIS Educational Tools and Data](#gis-educational-tools-and-data)
+    - [ISG Visualization Tools](#isg-visualization-tools)
+    - [ISG Educational Tools and Data](#isg-educational-tools-and-data)
 - [Sea Ice](#sea-ice)
     - [SI Software](#si-software)
     - [SI Data](#si-data)
@@ -53,9 +53,9 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [PERMOS](http://permos.ch/) - Swiss Permafrost Monitoring Network (PERMOS)
 - [PermaSense Matterhorn Data](https://doi.pangaea.de/10.1594/PANGAEA.916193) - Matterhorn Permafrost Observatory data ([p](https://doi.org/10.5194/essd-11-1203-2019))
 
-## Glaciers and Ice Sheets
-### GIS Software
-####  GIS Open Source Models
+## Ice Sheets and Glaciers
+### ISG Software
+####  ISG Open Source Models
 ##### Ice Flow and Mass Balance
 - [ALPGM](https://github.com/JordiBolibar/ALPGM) - ALpine Parameterized Glacier Model. Deep learning-based regional glacier evolution model ([p](https://tc.copernicus.org/articles/14/565/2020/tc-14-565-2020.html))
 - [CISM](https://github.com/CISM/cism) - Community Ice Sheet Model ([p](https://doi.org/10.1029/2008JF001015))
@@ -113,7 +113,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 
 
-####  GIS Closed/On-Demand Source Models
+#### ISG Closed/On-Demand Source Models
 
 ##### Ice Flow and Mass Balance
 - [f.ETISh](https://doi.org/10.5194/tc-11-1851-2017) - Fast Elementary Thermomechanical Ice Sheet Model ([p](https://doi.org/10.5194/tc-11-1851-2017))
@@ -137,7 +137,7 @@ hydrology and glacier dynamics (paper)
 - [Werderetal2013](https://doi.org/10.1002/jgrf.20146) - Modeling channelized and distributed subglacial drainage in two dimensions (paper)
 
 
-#### GIS Visualization Tools
+#### ISG Visualization Tools
 - [GLIMS Glacier Viewer](http://www.glims.org/maps/glims) - Global Land Ice Measurememts from Space (GLIMS) / Global Terrestrial Network for Glaciers (GTN-G) Glacier Viewer covering a range of inventories
 - [OGGM-edu](http://edu.oggm.org) - Interactive glacier apps for educational purposes
 - [WGMS Smartphone App](https://wgms.ch/glacierapp/) - Browsing glaciers worldwide and in your proximity
@@ -145,26 +145,26 @@ hydrology and glacier dynamics (paper)
 - [GLAMOS](https://glamos.ch) - Browsing Swiss glaciers on an interactive map
 - [iceplotlib](https://github.com/juseg/iceplotlib) - Plotting tools for PISM using matplotlib and netcdf4-python
 
-#### GIS Remote Sensing Software
+#### ISG Remote Sensing Software
 - [DIC_FFT](https://github.com/bickelmps/DIC_FFT_ETHZ) -  Detect and quantify surface displacements in multi-temporal images ([p](https://www.mdpi.com/2072-4292/10/6/865))
 - [glaciersat](https://github.com/jlandmann/glaciersat) -  Tools to observe glaciers from satellite imagery, such as albedo calculation and transient snow line detection
 - [icepyx](https://github.com/icesat2py/icepyx) - Python tools for obtaining and working with ICESat-2 laser altimetry data
 
-### GIS Data
-#### GIS Global Data
+### ISG Data
+#### ISG Global Data
 - [FoG](https://wgms.ch/data_databaseversions/) - Fluctuations of Glaciers with point, elevation band and specific mass balance measurements 
 - [Glacier Length Fluctuations](https://folk.uio.no/paulwl/length.php)  - Glacier Length Database by Paul Leclercq
 - [GlaThiDa](https://www.gtn-g.ch/data_catalogue_glathida/)  - Glacier Thickness Dataset with point, elevation band and specific ice thickness measurements
 - [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory, a global inventory of glacier outlines ([report an issue](https://github.com/GLIMS-RGI/rgi_issue_tracker))
 - [WGI](https://nsidc.org/data/g01130)  - World Glacier Inventory
 
-#### GIS National Data
+#### ISG National Data
 ##### Switzerland
 - [GLAMOS](https://glamos.ch) - Glacier Monitoring Switzerland: the Swiss glacier data portal]
 ##### Austria
 - [Austrian Glacier Inventory](https://doi.org/10.1594/PANGAEA.844988) - Multi-temporal inventory of Austrian glaciers as a shapefile
 
-### GIS Educational Tools and Data
+### ISG Educational Tools and Data
 - [OGGM-edu](http://edu.oggm.org) - Educational material about glaciers, powered by OGGM and MyBinder
 - [glacier-graphics](https://github.com/OGGM/glacier-graphics) - A collection of glacier graphics that can be used for education and outreach
 - [Ed Bueler's Karthaus material](https://github.com/bueler/karthaus) - Notes and codes for Ed Bueler's numerical lectures at Karthaus (Italy) Summer School on Ice Sheets and Glaciers
