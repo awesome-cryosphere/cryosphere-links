@@ -173,7 +173,6 @@ hydrology and glacier dynamics (paper)
 - [Glacier & Ice Sheet Dynamics at Georgia Tech](https://github.com/nsidc/NSIDC-Data-Tutorials) - Alex Robel's slides, notes, and code demonstrations for grad/undergrad course in glaciology 
 - [GRANTSISM](http://homepages.ulb.ac.be/~fpattyn/grantism/)  - GReenland & ANTarctic Ice Sheet Model + Svalbard extension, based on Excel with suggested exercises  ([p](https://doi.org/10.1016/j.cageo.2005.06.020) [p](https://doi.org/10.1080/10899995.2018.1412177))
 - [js-ism](https://github.com/mewo2/js-ism) - Reimplementation of GRANTISM in Javascript
-- [icepack-examples](https://github.com/danshapero/icepack-examples) - Example code for the glacier modelling library icepack
 - [International Summer School in Glaciology, McCarthy, Alaska](https://glaciers.gi.alaska.edu/courses/summerschool) - bi-annual summer school hosted by University of Alaska in Fairbanks
   - [McCarthy course material](https://glaciers.gi.alaska.edu/content/course-material-0) - Lecture notes on Ice Sheet Modelling, Mass Balance, Glacier Hydrology, Remote Sensing, and so on.
   - [Ed Bueler's material](https://github.com/bueler/mccarthy) - Slides, notes, and codes on numerical glacier and ice sheet modeling
