@@ -52,6 +52,8 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [Arctic Data Center](https://arcticdata.io) - Data and software from NSF Arctic research
 ## Frozen Ground/Permafrost
 ### FGP Software
+#### Data Handling
+- [tsp](https://gitlab.com/permafrostnet/teaspoon) - A python library for reading, writing, visualizing and manipulating ground temperature data
 ### FGP Data
 - [PERMOS](http://permos.ch/) - Swiss Permafrost Monitoring Network (PERMOS)
 - [PermaSense Matterhorn Data](https://doi.pangaea.de/10.1594/PANGAEA.916193) - Matterhorn Permafrost Observatory data ([p](https://doi.org/10.5194/essd-11-1203-2019))
