@@ -80,6 +80,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [sia-fluxlim](https://github.com/alexjarosch/sia-fluxlim) - Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences
 - [SICOPOLIS](http://www.sicopolis.net/)  - SImulation COde for POLythermal Ice Sheets
 - [speceis_flowline](https://github.com/douglas-brinkerhoff/speceis_flowline) - Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)
+- [Stochastic Ice-Sheet and Sea-Level System Model (StISSM)](https://issm.jpl.nasa.gov/download) - Stochastic implementation of ISSM ([p](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-699/egusphere-2022-699.pdf), preprint)
 - [Úa](https://github.com/GHilmarG/UaSource) - A large-scale ice-flow model
 - [UFEMISM](https://github.com/IMAU-paleo/UFEMISM) - The Utrecht FinitE voluMe Ice-Sheet Model ([p](https://doi.org/10.5194/gmd-14-2443-2021))
 - [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) - The source code repository for the Variational Glacier Simulator (VarGlaS) code ([p](https://doi.org/10.5194/tc-7-1161-2013))
