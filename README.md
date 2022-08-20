@@ -67,6 +67,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [Elmer/Ice](https://github.com/elmercsc/elmerfem) - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 - [Fenics Ice](https://github.com/EdiGlacUQ/fenics_ice) - Ice Sheet model with Bayesian Uncertainty Quantification ([p](https://doi.org/10.5194/gmd-2021-90)).
 - [flowline-glacier-model](https://github.com/aaschwanden/flowline-glacier-model) - Flowline glacier model by Andy Aschwanden
+- [Glacier Energy and Mass Balance (GEMB v1.0)](https://issm.jpl.nasa.gov/) - Energy and Mass Balance Model with focus on firn (part of ISSM) ([p](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-674/egusphere-2022-674.pdf), preprint).
 - [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
 - [icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets
 - [ICESHEET](https://github.com/evangowan/icesheet) - Creates ice sheet reconstructions using a perfectly plastic approximation, using ice margins and basal shear stress as inputs
