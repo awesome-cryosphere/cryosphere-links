@@ -57,6 +57,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 #### Modelling
 - [FreeThaw1D](https://github.com/geoframecomponents/FreeThaw1D) A fast 1d heat transfer model with phase change ([p](https://tc.copernicus.org/articles/15/2541/2021/tc-15-2541-2021.html))
 ### FGP Data
+- [PermafrostNet ERDDAP](https://data.permafrostnet.ca/erddap/index.html) - Distributing ground temperature and borehole data using OPeNDAP 
 - [PERMOS](http://permos.ch/) - Swiss Permafrost Monitoring Network (PERMOS)
 - [PermaSense Matterhorn Data](https://doi.pangaea.de/10.1594/PANGAEA.916193) - Matterhorn Permafrost Observatory data ([p](https://doi.org/10.5194/essd-11-1203-2019))
 
