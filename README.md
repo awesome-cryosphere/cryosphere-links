@@ -71,6 +71,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [Elmer/Ice](https://github.com/elmercsc/elmerfem) - Open Source Finite Element Software for Ice Sheet, Glaciers and Ice Flow Modelling
 - [Fenics Ice](https://github.com/EdiGlacUQ/fenics_ice) - Ice Sheet model with Bayesian Uncertainty Quantification ([p](https://doi.org/10.5194/gmd-2021-90)).
 - [flowline-glacier-model](https://github.com/aaschwanden/flowline-glacier-model) - Flowline glacier model by Andy Aschwanden
+- [Glacier Energy and Mass Balance (GEMB v1.0)](https://issm.jpl.nasa.gov/) - Energy and Mass Balance Model with focus on firn (part of ISSM) ([p](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-674/egusphere-2022-674.pdf), preprint).
 - [glacier-flow-model](https://github.com/munterfinger/glacier-flow-model) - Modelling glacier flow, based on the glaciers mass balance and a digital elevation model
 - [icepack](https://github.com/icepack/icepack) - Finite element modeling of glaciers and ice sheets
 - [ICESHEET](https://github.com/evangowan/icesheet) - Creates ice sheet reconstructions using a perfectly plastic approximation, using ice margins and basal shear stress as inputs
@@ -83,6 +84,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 - [sia-fluxlim](https://github.com/alexjarosch/sia-fluxlim) - Implementation of a MUSCL-superbee flux limiter to a shallow ice approximation flow code based on finite differences
 - [SICOPOLIS](http://www.sicopolis.net/)  - SImulation COde for POLythermal Ice Sheets
 - [speceis_flowline](https://github.com/douglas-brinkerhoff/speceis_flowline) - Width-parameterized flowline version of the spectral ice sheet model (SpecEIS)
+- [Stochastic Ice-Sheet and Sea-Level System Model (StISSM)](https://issm.jpl.nasa.gov/download) - Stochastic implementation of ISSM ([p](https://egusphere.copernicus.org/preprints/2022/egusphere-2022-699/egusphere-2022-699.pdf), preprint)
 - [Úa](https://github.com/GHilmarG/UaSource) - A large-scale ice-flow model
 - [UFEMISM](https://github.com/IMAU-paleo/UFEMISM) - The Utrecht FinitE voluMe Ice-Sheet Model ([p](https://doi.org/10.5194/gmd-14-2443-2021))
 - [VarGlaS](https://github.com/douglas-brinkerhoff/VarGlaS) - The source code repository for the Variational Glacier Simulator (VarGlaS) code ([p](https://doi.org/10.5194/tc-7-1161-2013))
