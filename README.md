@@ -54,7 +54,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 ## Frozen Ground/Permafrost
 ### FGP Software
 #### Data Handling
-- [tsp](https://gitlab.com/permafrostnet/teaspoon) - A python library for reading, writing, visualizing and manipulating ground temperature data
+- [tsp](https://gitlab.com/permafrostnet/teaspoon) - A python library for reading, writing, visualizing and manipulating ground temperature data ([p](https://doi.org/10.21105/joss.04704))
 #### Modelling
 - [FreeThaw1D](https://github.com/geoframecomponents/FreeThaw1D) A fast 1d heat transfer model with phase change ([p](https://tc.copernicus.org/articles/15/2541/2021/tc-15-2541-2021.html))
 ### FGP Data
