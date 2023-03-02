@@ -168,6 +168,7 @@ hydrology and glacier dynamics (paper)
 - [GlaThiDa](https://www.gtn-g.ch/data_catalogue_glathida/)  - Glacier Thickness Dataset with point, elevation band and specific ice thickness measurements
 - [RGI](http://www.glims.org/RGI/index.html) - Randolph Glacier Inventory, a global inventory of glacier outlines ([report an issue](https://github.com/GLIMS-RGI/rgi_issue_tracker))
 - [WGI](https://nsidc.org/data/g01130)  - World Glacier Inventory
+- [ITS_LIVE](https://its-live.jpl.nasa.gov/) - A NASA MEaSUREs project to provide automated, low latency, global glacier flow and elevation change datasets.
 
 #### ISG National Data
 ##### Switzerland
