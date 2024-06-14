@@ -44,7 +44,7 @@ A prototype of a curated list of awesome data sources, models, tools and organiz
 
 ## Cryosphere - across all subspheres
 ### Cryo Software
-- [Antarctic-Plots](https://antarctic-plots.readthedocs.io/en/latest/index.html) - A Python package to help download, process, visualize, and plot Antarctic data.
+- [PolarToolkit](https://polartoolkit.rtfd.io/) - A Python package to download, plot, and explore polar datasets.
 - [earthspy](https://github.com/AdrienWehrle/earthspy) - Monitor and study any place on Earth and in Near Real-Time (NRT) with satellite data
 - [xDEM](https://github.com/GlacioHack/xdem) - A Python module developed by glaciologists for handling DEMs: read/write, coregistration, volume change calculation etc.
 ### Cryo Data 
